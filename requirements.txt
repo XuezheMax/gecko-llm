@@ -1,0 +1,15 @@
+# packages
+
+fire
+nltk
+pathlib
+pynvml
+rouge_score
+sentencepiece
+submitit
+tqdm
+tensorboard
+typeguard
+wandb
+tiktoken==0.8.0
+blobfile
