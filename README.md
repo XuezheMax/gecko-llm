@@ -7,11 +7,9 @@
 # Gecko
 Reference implementation of Gecko 7B model.
 
->[Gecko: An Efficient Neural Architecture Inherently Processing Sequences with Arbitrary Lengths]()
+>[Gecko: An Efficient Neural Architecture Inherently Processing Sequences with Arbitrary Lengths](https://arxiv.org/abs/2601.06463)
 
 >Xuezhe Ma*, Shicheng Wen*, Linghao Jin*, Bilge Acun*, Ruihang Lai*, Bohan Hou, Will Lin, Hao Zhang, Songlin Yang, Ryan Lee, Mengxi Wu, Jonathan May, Luke Zettlemoyer, Carole-Jean Wu
-
-Discord: []()
 
 ## Updates
 1. [Jan 12th 2026] Release Repo to public.
@@ -32,6 +30,15 @@ pip install -e .
 
 ## References
 ```
+@misc{ma2026geckoefficientneuralarchitecture,
+      title={Gecko: An Efficient Neural Architecture Inherently Processing Sequences with Arbitrary Lengths}, 
+      author={Xuezhe Ma and Shicheng Wen and Linghao Jin and Bilge Acun and Ruihang Lai and Bohan Hou and Will Lin and Hao Zhang and Songlin Yang and Ryan Lee and Mengxi Wu and Jonathan May and Luke Zettlemoyer and Carole-Jean Wu},
+      year={2026},
+      eprint={2601.06463},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.06463}, 
+}
 
 @article{ma2024megalodon,
   title={Megalodon: Efficient llm pretraining and inference with unlimited context length},
